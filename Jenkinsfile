@@ -6,7 +6,7 @@ pipeline {
    
      stage('Install Dependencies') { 
         steps { 
-           sh 'echo "hello worsssldsss"' 
+           sh 'echo "hello world"' 
         }
      }
      
